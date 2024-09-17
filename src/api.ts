@@ -11,32 +11,32 @@ interface Restaurant {
 const restaurants: Restaurant[] = [
   {
     id: "1",
-    name: "The Golden Spoon",
+    name: "Degustacion bodega Mil suelos",
     description:
       "A fine dining experience with a menu that changes daily based on the freshest ingredients available.",
     address: "123 Main St. Anytown USA",
     score: 4.5,
     ratings: 100,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=1",
+    image: "/cava1220/bodega.jpeg",
   },
   {
     id: "2",
-    name: "La Piazza",
+    name: "Menu",
     description: "Authentic Italian cuisine in a cozy atmosphere with outdoor seating available.",
     address: "456 Oak Ave. Anytown USA",
     score: 4.2,
     ratings: 80,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=2",
+    image: "/cava1220/menu.jpeg",
   },
   {
     id: "3",
-    name: "The Sizzling Skillet",
+    name: "Piccolo Bamfi Conclave",
     description:
       "A family-friendly restaurant with a wide variety of dishes. including vegetarian and gluten-free options.",
     address: "789 Elm St. Anytown USA",
     score: 4.8,
     ratings: 120,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=3",
+    image: "/cava1220/vinos.jpeg",
   },
   {
     id: "4",
@@ -45,7 +45,7 @@ const restaurants: Restaurant[] = [
     address: "101 Forest Rd. Anytown USA",
     score: 4.0,
     ratings: 60,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=4",
+    image: "/restaurants/5.jpg",
   },
   {
     id: "5",
@@ -54,16 +54,16 @@ const restaurants: Restaurant[] = [
     address: "246 Main St. Anytown USA",
     score: 4.6,
     ratings: 90,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=5",
+    image:"/restaurants/6.jpg",
   },
   {
     id: "6",
-    name: "The Catch of the Day",
+    name: "After viernes 13-7",
     description: "A seafood restaurant with a focus on locally-sourced. sustainable ingredients.",
     address: "369 Beach Blvd. Anytown USA",
     score: 4.3,
     ratings: 70,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=6",
+    image: "/cava1220/after13-7.jpeg",
   },
   {
     id: "7",
@@ -72,7 +72,7 @@ const restaurants: Restaurant[] = [
     address: "753 Maple St. Anytown USA",
     score: 4.9,
     ratings: 150,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=7",
+    image: "/restaurants/8.jpg",
   },
   {
     id: "8",
@@ -81,7 +81,7 @@ const restaurants: Restaurant[] = [
     address: "852 Oak Ave. Anytown USA",
     score: 3.9,
     ratings: 50,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=8",
+    image:"/restaurants/9.jpg",
   },
   {
     id: "9",
@@ -91,7 +91,7 @@ const restaurants: Restaurant[] = [
     address: "963 Main St. Anytown USA",
     score: 4.7,
     ratings: 110,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=9",
+    image: "/restaurants/10.jpg",
   },
   {
     id: "10",
@@ -100,7 +100,7 @@ const restaurants: Restaurant[] = [
     address: "1479 Elm St. Anytown USA",
     score: 4.1,
     ratings: 75,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=10",
+    image: "/restaurants/11.jpg",
   },
   {
     id: "11",
@@ -109,7 +109,7 @@ const restaurants: Restaurant[] = [
     address: "753 Main St. Anytown USA",
     score: 4.4,
     ratings: 65,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=11",
+    image:"/restaurants/12.jpg",
   },
   {
     id: "12",
@@ -118,7 +118,7 @@ const restaurants: Restaurant[] = [
     address: "852 Oak Ave. Anytown USA",
     score: 4.9,
     ratings: 150,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=12",
+    image: "/restaurants/7.jpg",
   },
 ];
 
