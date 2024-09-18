@@ -31,8 +31,8 @@ export default function RootLayout({
           </div>
           <nav className="flex flex-grow items-center justify-end space-x-6 mr-5">
             <Link href={`/eventos`}>Eventos</Link>
-            <Link href={`/distribuidora/${page.id}`}>Distribuidora</Link>
-            <Link href={`/contacto/${page.id}`}>Registrarse</Link>
+            <Link href={`/distribuidora`}>Distribuidora</Link>
+            <Link href={`/contacto`}>Registrarse</Link>
           </nav>
         </header>
         <main className="pt-[4rem] py-8">{children}</main>
