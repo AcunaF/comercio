@@ -30,7 +30,7 @@ export default function RootLayout({
             </Link>
           </div>
           <nav className="flex flex-grow items-center justify-end space-x-6 mr-5">
-            <Link href={`/eventos/${page.id}`}>Eventos</Link>
+            <Link href={`/eventos`}>Eventos</Link>
             <Link href={`/distribuidora/${page.id}`}>Distribuidora</Link>
             <Link href={`/contacto/${page.id}`}>Registrarse</Link>
           </nav>

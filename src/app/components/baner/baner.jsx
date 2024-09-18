@@ -1,11 +1,11 @@
 "use client";
 import React, { useState, useRef } from "react";
-import "./Banner.css"; // Ajusta la ruta según tu estructura de carpetas
+import "./Banner.css"; 
 
 export default function Banner() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const carouselItemsRef = useRef([]);
-  const totalItems = 4; // Total number of carousel items
+  const totalItems = 5; 
 
   const updateCarousel = (index) => {
     carouselItemsRef.current.forEach((item, i) => {
