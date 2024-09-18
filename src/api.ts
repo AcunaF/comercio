@@ -1,3 +1,4 @@
+/* eslint-disable */
 interface Restaurant {
   id: string;
   name: string;

@@ -30,7 +30,7 @@ export default function Footer() {
             <ul className="mt-8 flex gap-6">
               <li>
                 <a
-                  href="#"
+                  href="www.https://www.google.com/"
                   rel="noreferrer"
                   target="_blank"
                   className="text-gray-700 transition hover:opacity-75"
@@ -60,7 +60,7 @@ export default function Footer() {
               <ul className="mt-6 space-y-4 text-sm">
                 <li>
                   <a
-                    href="#"
+                    href="www.https://www.google.com/"
                     className="text-gray-700 transition hover:opacity-75"
                   >
                     1on1 Coaching
@@ -75,7 +75,7 @@ export default function Footer() {
               <ul className="mt-6 space-y-4 text-sm">
                 <li>
                   <a
-                    href="#"
+                    href="www.https://www.google.com/"
                     className="text-gray-700 transition hover:opacity-75"
                   >
                     About
@@ -86,7 +86,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-     
+
         <div className="mt-12 border-t border-gray-100 pt-12">
           <div className="sm:flex sm:items-center sm:justify-between">
             <ul className="flex flex-wrap gap-4 text-xs">

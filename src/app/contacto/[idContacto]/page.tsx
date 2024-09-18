@@ -3,9 +3,9 @@ import React from 'react';
 import Link from 'next/link';
 
 const ReactSignUpForm: React.FC = () => {
-    type ErrorTypes = {
+    interface ErrorTypes {
         isRepeatPasswordNotEqual?: boolean;
-    };
+    }
 
     const [error, setError] = React.useState<ErrorTypes | null>(null);
 
